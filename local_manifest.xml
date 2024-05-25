@@ -2,7 +2,7 @@
 <manifest>
 
  <!--Device Tree Topaz -->
- <project path="device/xiaomi/topaz" name="fatsprjkt/android_device_xiaomi_topaz" remote="github" revision="rebase" />
+ <project path="device/xiaomi/topaz" name="fatsprjkt/android_device_xiaomi_topaz" remote="github" revision="wip" />
 
  <!--Vendor Tree Topaz-->
  <project path="vendor/xiaomi/topaz" name="fatsprjkt/android_vendor_xiaomi_topaz" remote="github" revision="14" />
