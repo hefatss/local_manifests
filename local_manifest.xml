@@ -2,10 +2,10 @@
 <manifest>
 
  <!--Device Tree Topaz -->
- <project path="device/xiaomi/topaz" name="fatsprjkt/android_device_xiaomi_topaz" remote="github" revision="wip" />
+ <project path="device/xiaomi/topaz" name="topazfucker/device_xiaomi_topaz" remote="github" revision="wip" />
 
  <!--Vendor Tree Topaz-->
- <project path="vendor/xiaomi/topaz" name="fatsprjkt/android_vendor_xiaomi_topaz" remote="github" revision="14" />
+ <project path="vendor/xiaomi/topaz" name="topazfucker/vendor_xiaomi_topaz" remote="github" revision="14" />
 
  <!--Prebuilt Kernel Topaz -->
  <project path="device/xiaomi/topaz-kernel" name="fatsprjkt/android_device_xiaomi_topaz-kernel" remote="github" revision="lineage-21" />
